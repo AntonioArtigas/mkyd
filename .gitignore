@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/mkyd
+mkyd.so
+mkyd.dylib
+mkyd.dll
+mkyd.a
+mkyd.lib
+mkyd-test-*
+*.exe
+*.o
+*.obj
+*.lst

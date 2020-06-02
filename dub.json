@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Antonio Artigas"
+	],
+	"copyright": "Copyright © 2020, Antonio Artigas",
+	"description": "Monkey language interpreter in D",
+	"license": "MIT",
+	"name": "mkyd"
+}
