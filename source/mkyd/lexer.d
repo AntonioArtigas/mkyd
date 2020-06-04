@@ -5,8 +5,6 @@ import std.conv : to;
 
 import mkyd.token;
 
-// oh this is cursed
-
 /// Parse a source string into tokens
 class Lexer
 {

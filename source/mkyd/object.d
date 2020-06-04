@@ -19,7 +19,7 @@ enum MkyObjectType
     ERROR,
     FUNCTION,
     STRING,
-    BUILTIN, // builtin objects like functions?
+    BUILTIN,
     ARRAY,
     HASH
 }
