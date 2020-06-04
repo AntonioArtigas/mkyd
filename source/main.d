@@ -28,7 +28,7 @@ void main()
         auto result = eval(prg, env);
         if (result !is null)
         {
-            writeln("uh: ", result.inspect());
+            writeln(result.inspect());
         }
     }
 }
